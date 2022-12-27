@@ -1,0 +1,23 @@
+#model {
+    position: relative;
+
+}
+
+#model .model_glass {
+    position: absolute;
+    top: 25%;
+    left: 23%;
+    width: 164px;
+    height: auto;
+    opacity: 0.9;
+}
+
+#model .model_content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    background-color: rgba(225, 165, 0, 0.3);
+    color: white;
+}
